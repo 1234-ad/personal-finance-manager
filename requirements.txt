@@ -1,0 +1,19 @@
+# Personal Finance Management Application Requirements
+# No external dependencies required - uses only Python standard library
+
+# Core Python modules used:
+# - sqlite3 (database operations)
+# - hashlib (password hashing)
+# - getpass (secure password input)
+# - datetime (date/time operations)
+# - json (data serialization)
+# - os (file operations)
+# - typing (type hints)
+# - unittest (testing framework)
+# - tempfile (temporary files for testing)
+# - re (regular expressions)
+
+# For development and testing:
+# pytest>=7.0.0  # Alternative testing framework (optional)
+# black>=22.0.0  # Code formatting (optional)
+# flake8>=4.0.0  # Code linting (optional)
